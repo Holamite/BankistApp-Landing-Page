@@ -134,7 +134,7 @@
     text-align: center;
   }
 
-  .btn {
+  .operations__tab-container button {
     padding: 0;
   }
   .operations__content {
@@ -163,5 +163,8 @@
   }
   .footer__link {
     font-size: 2rem;
+  }
+  .section--sign-up button {
+    display: none;
   }
 }
